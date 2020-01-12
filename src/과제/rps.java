@@ -15,7 +15,8 @@ public class rps {
 		// 1-가위 2-바위 3-보
 
 		Scanner sc = new Scanner(System.in);
-
+		System.out.println("git upload");
+		System.out.println("깃 업로드");
 		System.out.println("가위바위보 시작");
 
 		// 승수 (3승)
